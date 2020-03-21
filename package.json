@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tinkoff/invest-openapi-js-sdk": "^1.2.3",
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
   },

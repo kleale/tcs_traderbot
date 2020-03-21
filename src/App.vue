@@ -1,17 +1,17 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <TCS msg="Welcome to TCS bot"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TCS from './components/tcs.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TCS
   }
 }
 </script>
