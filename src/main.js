@@ -9,3 +9,7 @@ new Vue({
 
 
 
+//import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css'
+//import Popper from 'popper.js/dist/popper.min.js'
+//import BootstrapJs from 'bootstrap/dist/js/bootstrap.min.js'
+import 'bootstrap/dist/css/bootstrap.min.css'
